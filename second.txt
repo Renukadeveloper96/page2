@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Edureka</title>
+<link rel="stylesheet" type="text/css" href="page1.css">
+</head>
+<body>
+<h1>CSS TUTORIAL</h1>
+<p> A CSS tutorial that will cover pretty much everything in one tutorial</p>
+<h2>Let's get started</h2>
+
+<div>
+<h3>My Favorite Movies</h3>
+<ul>
+	<li><a class ="movie">YuvaRatna</a></li>
+	<li><a class ="movie">Rajkumar</a></li>
+	<li><a class ="movie">Parmatamha</a></li>
+</ul>
+</div>
+
+<h2>My Favourite Movie Quote<h2>
+<p id="quote">May the Force be with you.
+<spad id="author">Alexander</spam></p>
+<p class="games">I like <a href="YouTube.com">YouTube</a></p>
+
+<p> some stuff that I put in my cv</p>
+<div id="skills">
+<ol>
+	<li>C Language</li>
+	<li>C++ Language</li>
+	<li>Full Stack Development  </li>
+</ol>
+
+<ul>
+<li id="skills">JAVA</li>
+<li>HTML</li>
+</ul>
+</div>
+<h3>Favourite Video Games</h3>
+
+<p>List My Current <a href="tvshows">
+Favourite TV Shows</p>
+
+<ul>
+	<li alt="movie">The movie</li>
+	<li alt="songs">The songs</li>
+</ul>
+</body>
+</html>
